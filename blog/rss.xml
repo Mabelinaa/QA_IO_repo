@@ -4,12 +4,18 @@
         <title>QA Auren Digital Blog</title>
         <link>https://mabelinaa.github.io/QA_IO_repo/blog</link>
         <description>QA Auren Digital Blog</description>
-        <lastBuildDate>Fri, 01 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <item>
-            <title><![CDATA[Autores]]></title>
+            <title><![CDATA[UI Path Test Manager]]></title>
+            <link>https://mabelinaa.github.io/QA_IO_repo/blog/2023/12/03/UI Path Test Manager</link>
+            <guid>https://mabelinaa.github.io/QA_IO_repo/blog/2023/12/03/UI Path Test Manager</guid>
+            <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playwright Ts]]></title>
             <link>https://mabelinaa.github.io/QA_IO_repo/blog/welcome</link>
             <guid>https://mabelinaa.github.io/QA_IO_repo/blog/welcome</guid>
             <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
