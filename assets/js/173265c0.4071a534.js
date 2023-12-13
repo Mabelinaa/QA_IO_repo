@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[910],{7488:s=>{s.exports=JSON.parse('{"label":"RPA","permalink":"/QA_IO_repo/blog/tags/rpa","allTagsPath":"/QA_IO_repo/blog/tags","count":1,"unlisted":false}')}}]);

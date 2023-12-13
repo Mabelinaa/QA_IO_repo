@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[6215],{7139:s=>{s.exports=JSON.parse('{"label":"AzureDevops","permalink":"/QA_IO_repo/blog/tags/azure-devops","allTagsPath":"/QA_IO_repo/blog/tags","count":2,"unlisted":false}')}}]);

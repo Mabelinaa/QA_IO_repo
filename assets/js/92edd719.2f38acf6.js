@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2636],{3563:e=>{e.exports=JSON.parse('{"permalink":"/QA_IO_repo/blog/tags/qa","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Reviews"}')}}]);

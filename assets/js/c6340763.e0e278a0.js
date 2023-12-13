@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2584],{1137:s=>{s.exports=JSON.parse('{"label":"UI Path","permalink":"/QA_IO_repo/blog/tags/ui-path","allTagsPath":"/QA_IO_repo/blog/tags","count":1,"unlisted":false}')}}]);

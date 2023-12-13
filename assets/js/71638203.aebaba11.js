@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[7932],{1461:s=>{s.exports=JSON.parse('{"label":"c#","permalink":"/QA_IO_repo/blog/tags/c","allTagsPath":"/QA_IO_repo/blog/tags","count":1,"unlisted":false}')}}]);
